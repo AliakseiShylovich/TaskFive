@@ -14,6 +14,6 @@ public class Main {
                 }
             }
         }
-        System.out.println("матрица является нижней треугольной");
+        System.out.println("Mатрица является нижней треугольной");
     }
 }
